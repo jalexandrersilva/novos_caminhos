@@ -1,8 +1,11 @@
 <?php
+<<<<<<< HEAD
 
 /* Commented by @jalexandrersilva
 No exemplo abaixo, a constante mágina éa __DIR__
  Ele captura o caminho absoluto do arquivo necessário*/
+=======
+>>>>>>> upstream/master
 require __DIR__ . '/../framework/config.php';
 PHPClassName("2.11 - Constantes Mágicas no PHP");
 

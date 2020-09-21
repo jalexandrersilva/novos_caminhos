@@ -1,7 +1,11 @@
 <?php
 require __DIR__ . '/../framework/config.php';
 PHPClassName('2.12 - Manipulando Vetores');
+<<<<<<< HEAD
 //commented by @jalexandrersilva
+=======
+
+>>>>>>> upstream/master
 
 PHPClassSession('Manipulação', __LINE__);
 
@@ -17,6 +21,7 @@ $assoc = [
     "dev3" => "FULL STACK DEVELOPER",
 ];
 
+<<<<<<< HEAD
 //o comando abaixo inicia em cima do vetor $index o string
 array_unshift($index, "", "FULL CYCLE DEVELOPER");
 
@@ -38,6 +43,19 @@ Retira o último elemento
     array_pop($index);
     array_pop($assoc);
 */
+=======
+array_unshift($index, "", "FULL CYCLE DEVELOPER");
+$assoc = ["dev4" => "FULL CYCLE DEVELOPER"] + $assoc;
+
+array_push($index, "DEVOPS");
+$assoc = $assoc + ["dev5" => "DEVOPS"];
+
+// array_shift($index);
+// array_shift($assoc);
+
+// array_pop($index);
+// array_pop($assoc);
+>>>>>>> upstream/master
 
 // var_dump($index, $assoc);
 
@@ -65,7 +83,10 @@ var_dump(
     ]
 );
 
+<<<<<<< HEAD
 //localiza um elemento dentro de uma array
+=======
+>>>>>>> upstream/master
 if (in_array("FRONT END DEVELOPER", $assoc)) {
     echo "<p> Existe um developer</p>";
 }
