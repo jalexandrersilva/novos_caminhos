@@ -1,1 +1,314 @@
 [27-Sep-2020 13:36:15 America/Araguaina] PHP Notice:  Unknown: read of 717 bytes failed with errno=38 Function not implemented in Unknown on line 0
+[27-Sep-2020 16:50:43 America/Araguaina] PHP Parse error:  syntax error, unexpected '3' (T_LNUMBER), expecting ';' or ',' in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 13
+[27-Sep-2020 16:54:00 America/Araguaina] PHP Parse error:  syntax error, unexpected '<' in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 12
+[27-Sep-2020 16:54:26 America/Araguaina] PHP Parse error:  syntax error, unexpected '<' in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 14
+[27-Sep-2020 16:55:33 America/Araguaina] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING), expecting ';' or ',' in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 22
+[27-Sep-2020 16:55:43 America/Araguaina] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING), expecting ';' or ',' in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 22
+[27-Sep-2020 16:56:14 America/Araguaina] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 12
+[27-Sep-2020 16:56:42 America/Araguaina] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 12
+[27-Sep-2020 16:56:44 America/Araguaina] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 12
+[27-Sep-2020 16:57:07 America/Araguaina] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING), expecting ';' or ',' in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 22
+[27-Sep-2020 16:57:11 America/Araguaina] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING), expecting ';' or ',' in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 22
+[27-Sep-2020 16:57:30 America/Araguaina] PHP Parse error:  syntax error, unexpected '<' in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 12
+[27-Sep-2020 17:06:35 America/Araguaina] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 28
+[27-Sep-2020 17:12:05 America/Araguaina] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 28
+[27-Sep-2020 17:13:06 America/Araguaina] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 28
+[27-Sep-2020 17:16:51 America/Araguaina] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 28
+[27-Sep-2020 17:17:27 America/Araguaina] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 29
+[27-Sep-2020 17:18:41 America/Araguaina] PHP Parse error:  syntax error, unexpected '$arg1' (T_VARIABLE) in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 27
+[27-Sep-2020 17:18:58 America/Araguaina] PHP Parse error:  syntax error, unexpected '$arg2' (T_VARIABLE) in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 28
+[27-Sep-2020 17:27:21 America/Araguaina] PHP Parse error:  syntax error, unexpected '}' in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 14
+[27-Sep-2020 17:29:37 America/Araguaina] PHP Parse error:  syntax error, unexpected '}' in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 22
+[27-Sep-2020 17:29:51 America/Araguaina] PHP Parse error:  syntax error, unexpected ')' in /usr/share/nginx/html/2.3_Variaveis_tipos_de_dados/index.php on line 22
+[27-Sep-2020 17:32:43 America/Araguaina] PHP Parse error:  syntax error, unexpected ')' in /usr/share/nginx/html/RESPOSTAS/index.php on line 22
+[27-Sep-2020 17:35:43 America/Araguaina] PHP Parse error:  syntax error, unexpected ')', expecting ';' or ',' in /usr/share/nginx/html/RESPOSTAS/index.php on line 15
+[27-Sep-2020 17:35:44 America/Araguaina] PHP Parse error:  syntax error, unexpected ')', expecting ';' or ',' in /usr/share/nginx/html/RESPOSTAS/index.php on line 15
+[27-Sep-2020 17:39:14 America/Araguaina] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /usr/share/nginx/html/RESPOSTAS/index.php on line 16
+[27-Sep-2020 17:39:15 America/Araguaina] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /usr/share/nginx/html/RESPOSTAS/index.php on line 16
+[27-Sep-2020 17:53:00 America/Araguaina] PHP Parse error:  syntax error, unexpected '<' in /usr/share/nginx/html/RESPOSTAS/index.php on line 14
+[27-Sep-2020 17:59:44 America/Araguaina] PHP Parse error:  syntax error, unexpected 'Palíndromo' (T_STRING), expecting ';' or ',' in /usr/share/nginx/html/RESPOSTAS/index.php on line 33
+[27-Sep-2020 18:03:38 America/Araguaina] PHP Parse error:  syntax error, unexpected '';   ' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /usr/share/nginx/html/RESPOSTAS/index.php on line 76
+[27-Sep-2020 18:04:56 America/Araguaina] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /usr/share/nginx/html/RESPOSTAS/index.php on line 43
+[27-Sep-2020 18:07:36 America/Araguaina] PHP Parse error:  syntax error, unexpected 'aabaa' (T_STRING), expecting ';' or ',' in /usr/share/nginx/html/RESPOSTAS/index.php on line 38
+[27-Sep-2020 18:07:40 America/Araguaina] PHP Parse error:  syntax error, unexpected 'aabaa' (T_STRING), expecting ';' or ',' in /usr/share/nginx/html/RESPOSTAS/index.php on line 38
+[27-Sep-2020 18:07:46 America/Araguaina] PHP Parse error:  syntax error, unexpected 'aabaa' (T_STRING), expecting ';' or ',' in /usr/share/nginx/html/RESPOSTAS/index.php on line 38
+[27-Sep-2020 19:11:56 America/Araguaina] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /usr/share/nginx/html/RESPOSTAS/index.php on line 60
+[27-Sep-2020 19:12:21 America/Araguaina] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to adjacentes() must be of the type array, int given, called in /usr/share/nginx/html/RESPOSTAS/index.php on line 58 and defined in /usr/share/nginx/html/RESPOSTAS/index.php:48
+Stack trace:
+#0 /usr/share/nginx/html/RESPOSTAS/index.php(58): adjacentes()
+#1 {main}
+  thrown in /usr/share/nginx/html/RESPOSTAS/index.php on line 48
+[27-Sep-2020 19:13:52 America/Araguaina] PHP Parse error:  syntax error, unexpected '$inputsadjacentes' (T_VARIABLE), expecting '(' in /usr/share/nginx/html/RESPOSTAS/index.php on line 58
+[27-Sep-2020 19:14:57 America/Araguaina] PHP Parse error:  syntax error, unexpected '$inputs' (T_VARIABLE), expecting '(' in /usr/share/nginx/html/RESPOSTAS/index.php on line 58
+[27-Sep-2020 19:15:12 America/Araguaina] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to adjacentes() must be of the type array, int given, called in /usr/share/nginx/html/RESPOSTAS/index.php on line 58 and defined in /usr/share/nginx/html/RESPOSTAS/index.php:48
+Stack trace:
+#0 /usr/share/nginx/html/RESPOSTAS/index.php(58): adjacentes()
+#1 {main}
+  thrown in /usr/share/nginx/html/RESPOSTAS/index.php on line 48
+[27-Sep-2020 19:16:44 America/Araguaina] PHP Fatal error:  Cannot use [] for reading in /usr/share/nginx/html/RESPOSTAS/index.php on line 58
+[27-Sep-2020 19:17:02 America/Araguaina] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function adjacentes(), 0 passed in /usr/share/nginx/html/RESPOSTAS/index.php on line 58 and exactly 1 expected in /usr/share/nginx/html/RESPOSTAS/index.php:48
+Stack trace:
+#0 /usr/share/nginx/html/RESPOSTAS/index.php(58): adjacentes()
+#1 {main}
+  thrown in /usr/share/nginx/html/RESPOSTAS/index.php on line 48
+[27-Sep-2020 19:17:14 America/Araguaina] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to adjacentes() must be of the type array, int given, called in /usr/share/nginx/html/RESPOSTAS/index.php on line 58 and defined in /usr/share/nginx/html/RESPOSTAS/index.php:48
+Stack trace:
+#0 /usr/share/nginx/html/RESPOSTAS/index.php(58): adjacentes()
+#1 {main}
+  thrown in /usr/share/nginx/html/RESPOSTAS/index.php on line 48
+[27-Sep-2020 19:17:38 America/Araguaina] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to adjacentes() must be of the type array, int given, called in /usr/share/nginx/html/RESPOSTAS/index.php on line 59 and defined in /usr/share/nginx/html/RESPOSTAS/index.php:48
+Stack trace:
+#0 /usr/share/nginx/html/RESPOSTAS/index.php(59): adjacentes()
+#1 {main}
+  thrown in /usr/share/nginx/html/RESPOSTAS/index.php on line 48
+[27-Sep-2020 19:17:40 America/Araguaina] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to adjacentes() must be of the type array, int given, called in /usr/share/nginx/html/RESPOSTAS/index.php on line 59 and defined in /usr/share/nginx/html/RESPOSTAS/index.php:48
+Stack trace:
+#0 /usr/share/nginx/html/RESPOSTAS/index.php(59): adjacentes()
+#1 {main}
+  thrown in /usr/share/nginx/html/RESPOSTAS/index.php on line 48
+[27-Sep-2020 19:19:29 America/Araguaina] PHP Parse error:  syntax error, unexpected ',' in /usr/share/nginx/html/RESPOSTAS/index.php on line 58
+[27-Sep-2020 19:20:13 America/Araguaina] PHP Parse error:  syntax error, unexpected ',' in /usr/share/nginx/html/RESPOSTAS/index.php on line 58
+[27-Sep-2020 19:25:49 America/Araguaina] PHP Parse error:  syntax error, unexpected '$matriz' (T_VARIABLE), expecting '(' in /usr/share/nginx/html/RESPOSTAS/index.php on line 47
+[27-Sep-2020 19:26:08 America/Araguaina] PHP Parse error:  syntax error, unexpected '$matriz' (T_VARIABLE), expecting '(' in /usr/share/nginx/html/RESPOSTAS/index.php on line 47
+[27-Sep-2020 19:27:36 America/Araguaina] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /usr/share/nginx/html/RESPOSTAS/index.php on line 57
+[27-Sep-2020 19:27:50 America/Araguaina] PHP Parse error:  syntax error, unexpected ':' in /usr/share/nginx/html/RESPOSTAS/index.php on line 57
+[27-Sep-2020 19:31:15 America/Araguaina] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /usr/share/nginx/html/RESPOSTAS/index.php on line 58
+[27-Sep-2020 19:31:42 America/Araguaina] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function adjacentes(), 0 passed in /usr/share/nginx/html/RESPOSTAS/index.php on line 59 and exactly 1 expected in /usr/share/nginx/html/RESPOSTAS/index.php:48
+Stack trace:
+#0 /usr/share/nginx/html/RESPOSTAS/index.php(59): adjacentes()
+#1 {main}
+  thrown in /usr/share/nginx/html/RESPOSTAS/index.php on line 48
+[27-Sep-2020 19:32:21 America/Araguaina] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /usr/share/nginx/html/RESPOSTAS/index.php on line 60
+[27-Sep-2020 19:33:18 America/Araguaina] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /usr/share/nginx/html/RESPOSTAS/index.php on line 63
+[28-Sep-2020 09:13:20 America/Araguaina] PHP Parse error:  syntax error, unexpected '/', expecting end of file in /usr/share/nginx/html/RESPOSTAS/index.php on line 65
+[28-Sep-2020 10:05:16 America/Araguaina] PHP Parse error:  syntax error, unexpected '$lengths' (T_VARIABLE) in /usr/share/nginx/html/RESPOSTAS/index.php on line 98
+[28-Sep-2020 10:37:48 America/Araguaina] PHP Parse error:  syntax error, unexpected 'PHPClassSession' (T_STRING) in /usr/share/nginx/html/RESPOSTAS/index.php on line 109
+[28-Sep-2020 11:11:15 America/Araguaina] PHP Parse error:  syntax error, unexpected 'PHPClassSession' (T_STRING) in /usr/share/nginx/html/RESPOSTAS/index.php on line 120
+[28-Sep-2020 11:26:11 America/Araguaina] PHP Parse error:  syntax error, unexpected ';' in /usr/share/nginx/html/RESPOSTAS/index.php on line 120
+[28-Sep-2020 11:53:39 America/Araguaina] PHP Parse error:  syntax error, unexpected '>' in /usr/share/nginx/html/RESPOSTAS/index.php on line 121
+[28-Sep-2020 11:53:50 America/Araguaina] PHP Parse error:  syntax error, unexpected '<' in /usr/share/nginx/html/RESPOSTAS/index.php on line 121
+[28-Sep-2020 12:52:20 America/Araguaina] PHP Parse error:  syntax error, unexpected 'array_sum' (T_STRING), expecting '(' in /usr/share/nginx/html/RESPOSTAS/index.php on line 145
+[28-Sep-2020 12:57:56 America/Araguaina] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /usr/share/nginx/html/RESPOSTAS/index.php on line 145
+[28-Sep-2020 13:47:23 America/Araguaina] PHP Parse error:  syntax error, unexpected 'false' (T_STRING) in /usr/share/nginx/html/RESPOSTAS/index.php on line 155
+[28-Sep-2020 15:29:58 America/Araguaina] PHP Parse error:  syntax error, unexpected '>' in /usr/share/nginx/html/RESPOSTAS/index.php on line 164
+[28-Sep-2020 15:30:12 America/Araguaina] PHP Parse error:  syntax error, unexpected '<' in /usr/share/nginx/html/RESPOSTAS/index.php on line 164
+[28-Sep-2020 15:30:43 America/Araguaina] PHP Parse error:  syntax error, unexpected '<' in /usr/share/nginx/html/RESPOSTAS/index.php on line 165
+[28-Sep-2020 15:33:42 America/Araguaina] PHP Parse error:  syntax error, unexpected '<' in /usr/share/nginx/html/RESPOSTAS/index.php on line 13
+[28-Sep-2020 15:34:50 America/Araguaina] PHP Parse error:  syntax error, unexpected '"<br>"' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /usr/share/nginx/html/RESPOSTAS/index.php on line 12
+[28-Sep-2020 15:41:54 America/Araguaina] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /usr/share/nginx/html/RESPOSTAS/index.php on line 16
+[28-Sep-2020 15:41:54 America/Araguaina] PHP Stack trace:
+[28-Sep-2020 15:41:54 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/RESPOSTAS/index.php:0
+[28-Sep-2020 15:46:44 America/Araguaina] PHP Parse error:  syntax error, unexpected '$intArray1' (T_VARIABLE), expecting '(' in /usr/share/nginx/html/RESPOSTAS/index.php on line 16
+[28-Sep-2020 15:47:32 America/Araguaina] PHP Parse error:  syntax error, unexpected '$intArray1' (T_VARIABLE), expecting '(' in /usr/share/nginx/html/RESPOSTAS/index.php on line 16
+[28-Sep-2020 15:47:59 America/Araguaina] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /usr/share/nginx/html/RESPOSTAS/index.php on line 16
+[28-Sep-2020 15:48:31 America/Araguaina] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /usr/share/nginx/html/RESPOSTAS/index.php on line 16
+[28-Sep-2020 15:54:55 America/Araguaina] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /usr/share/nginx/html/RESPOSTAS/index.php on line 16
+[28-Sep-2020 15:55:54 America/Araguaina] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /usr/share/nginx/html/RESPOSTAS/index.php on line 19
+[28-Sep-2020 15:56:44 America/Araguaina] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /usr/share/nginx/html/RESPOSTAS/index.php on line 16
+[28-Sep-2020 15:57:01 America/Araguaina] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /usr/share/nginx/html/RESPOSTAS/index.php on line 16
+[28-Sep-2020 15:59:49 America/Araguaina] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /usr/share/nginx/html/RESPOSTAS/index.php on line 16
+[28-Sep-2020 15:59:49 America/Araguaina] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /usr/share/nginx/html/RESPOSTAS/index.php on line 18
+[28-Sep-2020 16:00:14 America/Araguaina] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /usr/share/nginx/html/RESPOSTAS/index.php on line 16
+[28-Sep-2020 16:00:14 America/Araguaina] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /usr/share/nginx/html/RESPOSTAS/index.php on line 18
+[28-Sep-2020 16:02:03 America/Araguaina] PHP Parse error:  syntax error, unexpected '$intArray1' (T_VARIABLE), expecting '(' in /usr/share/nginx/html/RESPOSTAS/index.php on line 18
+[28-Sep-2020 16:02:53 America/Araguaina] PHP Parse error:  syntax error, unexpected '$intArray1' (T_VARIABLE), expecting '(' in /usr/share/nginx/html/RESPOSTAS/index.php on line 18
+[28-Sep-2020 16:03:33 America/Araguaina] PHP Parse error:  syntax error, unexpected '$intArray1' (T_VARIABLE), expecting '(' in /usr/share/nginx/html/RESPOSTAS/index.php on line 18
+[28-Sep-2020 16:04:24 America/Araguaina] PHP Parse error:  syntax error, unexpected '$intArray1' (T_VARIABLE), expecting '(' in /usr/share/nginx/html/RESPOSTAS/index.php on line 18
+[28-Sep-2020 16:05:11 America/Araguaina] PHP Fatal error:  Uncaught Error: Call to undefined function pvar_dump() in /usr/share/nginx/html/RESPOSTAS/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/RESPOSTAS/index.php on line 16
+[28-Sep-2020 16:05:29 America/Araguaina] PHP Fatal error:  Uncaught Error: Call to undefined function var_value() in /usr/share/nginx/html/RESPOSTAS/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/RESPOSTAS/index.php on line 16
+[28-Sep-2020 16:05:33 America/Araguaina] PHP Fatal error:  Uncaught Error: Call to undefined function var_values() in /usr/share/nginx/html/RESPOSTAS/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/RESPOSTAS/index.php on line 16
+[28-Sep-2020 16:06:31 America/Araguaina] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /usr/share/nginx/html/RESPOSTAS/index.php on line 17
+[28-Sep-2020 16:06:45 America/Araguaina] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /usr/share/nginx/html/RESPOSTAS/index.php on line 17
+[28-Sep-2020 16:10:16 America/Araguaina] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /usr/share/nginx/html/RESPOSTAS/index.php on line 17
+[28-Sep-2020 16:18:02 America/Araguaina] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /usr/share/nginx/html/RESPOSTAS/index.php on line 16
+[28-Sep-2020 16:18:48 America/Araguaina] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /usr/share/nginx/html/RESPOSTAS/index.php on line 21
+[28-Sep-2020 16:20:48 America/Araguaina] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting '(' in /usr/share/nginx/html/RESPOSTAS/index.php on line 19
+[28-Sep-2020 16:21:10 America/Araguaina] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING), expecting '(' in /usr/share/nginx/html/RESPOSTAS/index.php on line 19
+[28-Sep-2020 16:21:31 America/Araguaina] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /usr/share/nginx/html/RESPOSTAS/index.php on line 19
+[28-Sep-2020 16:32:19 America/Araguaina] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting '(' in /usr/share/nginx/html/RESPOSTAS/index.php on line 17
+[28-Sep-2020 16:34:16 America/Araguaina] PHP Fatal error:  Uncaught Error: Call to undefined function currrent() in /usr/share/nginx/html/RESPOSTAS/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/RESPOSTAS/index.php on line 17
+[28-Sep-2020 16:35:30 America/Araguaina] PHP Parse error:  syntax error, unexpected 'current' (T_STRING), expecting '(' in /usr/share/nginx/html/RESPOSTAS/index.php on line 16
+[28-Sep-2020 17:07:40 America/Araguaina] PHP Parse error:  syntax error, unexpected '<' in /usr/share/nginx/html/RESPOSTAS/index.php on line 24
+[28-Sep-2020 17:08:56 America/Araguaina] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /usr/share/nginx/html/RESPOSTAS/index.php on line 25
+[28-Sep-2020 17:10:12 America/Araguaina] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /usr/share/nginx/html/RESPOSTAS/index.php on line 26
+[28-Sep-2020 17:10:24 America/Araguaina] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /usr/share/nginx/html/RESPOSTAS/index.php on line 26
+[28-Sep-2020 17:10:41 America/Araguaina] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /usr/share/nginx/html/RESPOSTAS/index.php on line 26
+[29-Sep-2020 09:46:00 America/Araguaina] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /usr/share/nginx/html/RESPOSTAS/index.php on line 26
+[29-Sep-2020 10:11:11 America/Araguaina] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 134217736 bytes) in /usr/share/nginx/html/RESPOSTAS/index.php on line 17
+[29-Sep-2020 10:11:11 America/Araguaina] PHP Stack trace:
+[29-Sep-2020 10:11:11 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/RESPOSTAS/index.php:0
+[29-Sep-2020 10:11:11 America/Araguaina] PHP   2. array_push() /usr/share/nginx/html/RESPOSTAS/index.php:17
+[29-Sep-2020 10:13:27 America/Araguaina] PHP Parse error:  syntax error, unexpected ')' in /usr/share/nginx/html/RESPOSTAS/index.php on line 18
+[29-Sep-2020 10:24:13 America/Araguaina] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /usr/share/nginx/html/RESPOSTAS/index.php on line 30
+[29-Sep-2020 10:26:06 America/Araguaina] PHP Parse error:  syntax error, unexpected end of file in /usr/share/nginx/html/RESPOSTAS/index.php on line 285
+[29-Sep-2020 10:26:37 America/Araguaina] PHP Parse error:  syntax error, unexpected end of file in /usr/share/nginx/html/RESPOSTAS/index.php on line 285
+[29-Sep-2020 11:01:29 America/Araguaina] PHP Parse error:  syntax error, unexpected end of file in /usr/share/nginx/html/RESPOSTAS/index.php on line 292
+[29-Sep-2020 11:02:27 America/Araguaina] PHP Parse error:  syntax error, unexpected end of file in /usr/share/nginx/html/RESPOSTAS/index.php on line 292
+[29-Sep-2020 11:02:28 America/Araguaina] PHP Parse error:  syntax error, unexpected end of file in /usr/share/nginx/html/RESPOSTAS/index.php on line 292
+[29-Sep-2020 11:02:54 America/Araguaina] PHP Parse error:  syntax error, unexpected end of file in /usr/share/nginx/html/RESPOSTAS/index.php on line 293
+[29-Sep-2020 11:03:45 America/Araguaina] PHP Parse error:  syntax error, unexpected end of file in /usr/share/nginx/html/RESPOSTAS/index.php on line 294
+[29-Sep-2020 11:03:59 America/Araguaina] PHP Parse error:  syntax error, unexpected end of file in /usr/share/nginx/html/RESPOSTAS/index.php on line 294
+[29-Sep-2020 11:07:50 America/Araguaina] PHP Parse error:  syntax error, unexpected '"<br>"' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /usr/share/nginx/html/RESPOSTAS/index.php on line 27
+[29-Sep-2020 11:08:15 America/Araguaina] PHP Parse error:  syntax error, unexpected '"<br>"' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /usr/share/nginx/html/RESPOSTAS/index.php on line 27
+[29-Sep-2020 11:16:16 America/Araguaina] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /usr/share/nginx/html/RESPOSTAS/index.php on line 38
+[29-Sep-2020 11:16:29 America/Araguaina] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /usr/share/nginx/html/RESPOSTAS/index.php on line 38
+[29-Sep-2020 11:17:53 America/Araguaina] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /usr/share/nginx/html/framework/config.php on line 59
+[29-Sep-2020 11:17:53 America/Araguaina] PHP Stack trace:
+[29-Sep-2020 11:17:53 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/RESPOSTAS/index.php:0
+[29-Sep-2020 11:17:53 America/Araguaina] PHP   2. PHPErrorHandler() /usr/share/nginx/html/RESPOSTAS/index.php:36
+[29-Sep-2020 11:20:31 America/Araguaina] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /usr/share/nginx/html/RESPOSTAS/index.php on line 38
+[29-Sep-2020 11:20:39 America/Araguaina] PHP Parse error:  syntax error, unexpected end of file in /usr/share/nginx/html/RESPOSTAS/index.php on line 310
+[29-Sep-2020 11:20:44 America/Araguaina] PHP Parse error:  syntax error, unexpected end of file in /usr/share/nginx/html/RESPOSTAS/index.php on line 310
+[29-Sep-2020 11:20:59 America/Araguaina] PHP Parse error:  syntax error, unexpected end of file in /usr/share/nginx/html/RESPOSTAS/index.php on line 310
+[29-Sep-2020 11:22:52 America/Araguaina] PHP Parse error:  syntax error, unexpected '';' (T_CONSTANT_ENCAPSED_STRING) in /usr/share/nginx/html/RESPOSTAS/index.php on line 66
+[29-Sep-2020 11:23:00 America/Araguaina] PHP Parse error:  syntax error, unexpected end of file in /usr/share/nginx/html/RESPOSTAS/index.php on line 308
+[29-Sep-2020 11:23:08 America/Araguaina] PHP Parse error:  syntax error, unexpected end of file in /usr/share/nginx/html/RESPOSTAS/index.php on line 307
+[29-Sep-2020 11:23:38 America/Araguaina] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 134217736 bytes) in /usr/share/nginx/html/RESPOSTAS/index.php on line 38
+[29-Sep-2020 11:23:38 America/Araguaina] PHP Stack trace:
+[29-Sep-2020 11:23:38 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/RESPOSTAS/index.php:0
+[29-Sep-2020 11:44:02 America/Araguaina] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 134217736 bytes) in /usr/share/nginx/html/RESPOSTAS/index.php on line 38
+[29-Sep-2020 11:44:02 America/Araguaina] PHP Stack trace:
+[29-Sep-2020 11:44:02 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/RESPOSTAS/index.php:0
+[29-Sep-2020 11:48:00 America/Araguaina] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 134217736 bytes) in /usr/share/nginx/html/RESPOSTAS/index.php on line 38
+[29-Sep-2020 11:48:00 America/Araguaina] PHP Stack trace:
+[29-Sep-2020 11:48:00 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/RESPOSTAS/index.php:0
+[29-Sep-2020 11:49:05 America/Araguaina] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 134217736 bytes) in /usr/share/nginx/html/RESPOSTAS/index.php on line 38
+[29-Sep-2020 11:49:05 America/Araguaina] PHP Stack trace:
+[29-Sep-2020 11:49:05 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/RESPOSTAS/index.php:0
+[29-Sep-2020 11:55:35 America/Araguaina] PHP Parse error:  syntax error, unexpected '<' in /usr/share/nginx/html/RESPOSTAS/index.php on line 39
+[29-Sep-2020 12:09:10 America/Araguaina] PHP Parse error:  syntax error, unexpected end of file in /usr/share/nginx/html/RESPOSTAS/index.php on line 315
+[29-Sep-2020 12:13:10 America/Araguaina] PHP Fatal error:  Uncaught Error: Function name must be a string in /usr/share/nginx/html/RESPOSTAS/index.php:42
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/RESPOSTAS/index.php on line 42
+[29-Sep-2020 12:14:11 America/Araguaina] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting variable (T_VARIABLE) or '{' or '$' in /usr/share/nginx/html/RESPOSTAS/index.php on line 40
+[29-Sep-2020 12:14:17 America/Araguaina] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /usr/share/nginx/html/RESPOSTAS/index.php on line 40
+[29-Sep-2020 12:48:17 America/Araguaina] PHP Parse error:  syntax error, unexpected '$a' (T_VARIABLE), expecting '(' in /usr/share/nginx/html/RESPOSTAS/index.php on line 36
+[29-Sep-2020 12:48:28 America/Araguaina] PHP Parse error:  syntax error, unexpected '$a' (T_VARIABLE), expecting '(' in /usr/share/nginx/html/RESPOSTAS/index.php on line 36
+[29-Sep-2020 12:48:57 America/Araguaina] PHP Parse error:  syntax error, unexpected '$a' (T_VARIABLE), expecting '(' in /usr/share/nginx/html/RESPOSTAS/index.php on line 37
+[29-Sep-2020 12:48:57 America/Araguaina] PHP Parse error:  syntax error, unexpected '$a' (T_VARIABLE), expecting '(' in /usr/share/nginx/html/RESPOSTAS/index.php on line 37
+[29-Sep-2020 12:48:58 America/Araguaina] PHP Parse error:  syntax error, unexpected '$a' (T_VARIABLE), expecting '(' in /usr/share/nginx/html/RESPOSTAS/index.php on line 37
+[29-Sep-2020 12:48:58 America/Araguaina] PHP Parse error:  syntax error, unexpected '$a' (T_VARIABLE), expecting '(' in /usr/share/nginx/html/RESPOSTAS/index.php on line 37
+[29-Sep-2020 12:49:01 America/Araguaina] PHP Parse error:  syntax error, unexpected '$a' (T_VARIABLE), expecting '(' in /usr/share/nginx/html/RESPOSTAS/index.php on line 37
+[29-Sep-2020 12:51:59 America/Araguaina] PHP Parse error:  syntax error, unexpected '}' in /usr/share/nginx/html/RESPOSTAS/index.php on line 45
+[29-Sep-2020 12:57:51 America/Araguaina] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /usr/share/nginx/html/RESPOSTAS/index.php on line 53
+[29-Sep-2020 13:02:56 America/Araguaina] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /usr/share/nginx/html/RESPOSTAS/index.php on line 55
+[29-Sep-2020 13:10:49 America/Araguaina] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /usr/share/nginx/html/RESPOSTAS/index.php on line 54
+[29-Sep-2020 13:23:55 America/Araguaina] PHP Parse error:  syntax error, unexpected '<' in /usr/share/nginx/html/RESPOSTAS/index.php on line 50
+[29-Sep-2020 13:25:28 America/Araguaina] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /usr/share/nginx/html/framework/config.php on line 59
+[29-Sep-2020 13:25:28 America/Araguaina] PHP Stack trace:
+[29-Sep-2020 13:25:28 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/RESPOSTAS/index.php:0
+[29-Sep-2020 13:25:28 America/Araguaina] PHP   2. PHPErrorHandler() /usr/share/nginx/html/RESPOSTAS/index.php:51
+[29-Sep-2020 13:38:24 America/Araguaina] PHP Parse error:  syntax error, unexpected '/', expecting end of file in /usr/share/nginx/html/RESPOSTAS/index.php on line 36
+[29-Sep-2020 13:47:12 America/Araguaina] PHP Parse error:  syntax error, unexpected 'PHPClassSession' (T_STRING), expecting variable (T_VARIABLE) or '{' or '$' in /usr/share/nginx/html/RESPOSTAS/index.php on line 15
+[29-Sep-2020 13:49:51 America/Araguaina] PHP Parse error:  syntax error, unexpected '=' in /usr/share/nginx/html/RESPOSTAS/index.php on line 9
+[29-Sep-2020 13:56:51 America/Araguaina] PHP Fatal error:  Uncaught Error: Call to undefined function (bar)() in /usr/share/nginx/html/RESPOSTAS/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/RESPOSTAS/index.php on line 12
+[29-Sep-2020 13:57:17 America/Araguaina] PHP Fatal error:  Uncaught Error: Call to undefined function (bar)() in /usr/share/nginx/html/RESPOSTAS/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/RESPOSTAS/index.php on line 13
+[29-Sep-2020 14:13:39 America/Araguaina] PHP Parse error:  syntax error, unexpected 'false' (T_STRING), expecting '(' in /usr/share/nginx/html/RESPOSTAS/index.php on line 8
+[29-Sep-2020 14:15:07 America/Araguaina] PHP Parse error:  syntax error, unexpected '}' in /usr/share/nginx/html/RESPOSTAS/index.php on line 12
+[29-Sep-2020 14:30:22 America/Araguaina] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /usr/share/nginx/html/RESPOSTAS/index.php on line 9
+[30-Sep-2020 10:16:47 America/Araguaina] PHP Parse error:  syntax error, unexpected end of file in /usr/share/nginx/html/RESPOSTAS/index.php on line 315
+[30-Sep-2020 11:17:25 America/Araguaina] PHP Parse error:  syntax error, unexpected '<>' (T_IS_NOT_EQUAL) in /usr/share/nginx/html/RESPOSTAS/index.php on line 26
+[30-Sep-2020 11:18:40 America/Araguaina] PHP Parse error:  syntax error, unexpected '<>' (T_IS_NOT_EQUAL) in /usr/share/nginx/html/RESPOSTAS/index.php on line 26
+[30-Sep-2020 11:19:00 America/Araguaina] PHP Parse error:  syntax error, unexpected '=' in /usr/share/nginx/html/RESPOSTAS/index.php on line 27
+[30-Sep-2020 11:26:08 America/Araguaina] PHP Parse error:  syntax error, unexpected '=' in /usr/share/nginx/html/RESPOSTAS/index.php on line 27
+[30-Sep-2020 11:33:48 America/Araguaina] PHP Parse error:  syntax error, unexpected '}' in /usr/share/nginx/html/RESPOSTAS/index.php on line 30
+[30-Sep-2020 11:45:21 America/Araguaina] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting '(' in /usr/share/nginx/html/RESPOSTAS/index.php on line 25
+[30-Sep-2020 12:04:38 America/Araguaina] PHP Parse error:  syntax error, unexpected '$', expecting '(' in /usr/share/nginx/html/RESPOSTAS/index.php on line 18
+[30-Sep-2020 12:05:56 America/Araguaina] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /usr/share/nginx/html/RESPOSTAS/index.php on line 18
+[30-Sep-2020 12:07:12 America/Araguaina] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /usr/share/nginx/html/RESPOSTAS/index.php on line 18
+[30-Sep-2020 12:12:10 America/Araguaina] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /usr/share/nginx/html/RESPOSTAS/index.php on line 17
+[30-Sep-2020 12:13:17 America/Araguaina] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /usr/share/nginx/html/RESPOSTAS/index.php on line 17
+[30-Sep-2020 12:15:06 America/Araguaina] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /usr/share/nginx/html/RESPOSTAS/index.php on line 17
+[30-Sep-2020 12:16:34 America/Araguaina] PHP Parse error:  syntax error, unexpected ';' in /usr/share/nginx/html/RESPOSTAS/index.php on line 20
+[30-Sep-2020 12:16:48 America/Araguaina] PHP Parse error:  syntax error, unexpected ';' in /usr/share/nginx/html/RESPOSTAS/index.php on line 20
+[30-Sep-2020 12:16:50 America/Araguaina] PHP Parse error:  syntax error, unexpected ';' in /usr/share/nginx/html/RESPOSTAS/index.php on line 20
+[30-Sep-2020 12:17:38 America/Araguaina] PHP Parse error:  syntax error, unexpected ';' in /usr/share/nginx/html/RESPOSTAS/index.php on line 22
+[30-Sep-2020 12:17:47 America/Araguaina] PHP Parse error:  syntax error, unexpected end of file in /usr/share/nginx/html/RESPOSTAS/index.php on line 325
+[30-Sep-2020 12:30:27 America/Araguaina] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING) in /usr/share/nginx/html/RESPOSTAS/index.php on line 13
+[30-Sep-2020 12:31:45 America/Araguaina] PHP Parse error:  syntax error, unexpected '=' in /usr/share/nginx/html/RESPOSTAS/index.php on line 12
+[30-Sep-2020 12:38:48 America/Araguaina] PHP Parse error:  syntax error, unexpected '}' in /usr/share/nginx/html/RESPOSTAS/index.php on line 27
+[30-Sep-2020 12:43:41 America/Araguaina] PHP Parse error:  syntax error, unexpected 'substr' (T_STRING), expecting '(' in /usr/share/nginx/html/RESPOSTAS/index.php on line 25
+[30-Sep-2020 12:51:44 America/Araguaina] PHP Parse error:  syntax error, unexpected 'substr' (T_STRING), expecting '(' in /usr/share/nginx/html/RESPOSTAS/index.php on line 25
+[30-Sep-2020 12:54:57 America/Araguaina] PHP Parse error:  syntax error, unexpected 'substr' (T_STRING), expecting '(' in /usr/share/nginx/html/RESPOSTAS/index.php on line 25
+[30-Sep-2020 12:56:05 America/Araguaina] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /usr/share/nginx/html/RESPOSTAS/index.php on line 25
+[30-Sep-2020 12:56:05 America/Araguaina] PHP Stack trace:
+[30-Sep-2020 12:56:05 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/RESPOSTAS/index.php:0
+[30-Sep-2020 12:56:21 America/Araguaina] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /usr/share/nginx/html/RESPOSTAS/index.php on line 26
+[30-Sep-2020 12:56:21 America/Araguaina] PHP Stack trace:
+[30-Sep-2020 12:56:21 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/RESPOSTAS/index.php:0
+[30-Sep-2020 13:40:26 America/Araguaina] PHP Parse error:  syntax error, unexpected ';' in /usr/share/nginx/html/RESPOSTAS/index.php on line 15
+[30-Sep-2020 13:54:19 America/Araguaina] PHP Parse error:  syntax error, unexpected '$pos' (T_VARIABLE) in /usr/share/nginx/html/RESPOSTAS/index.php on line 26
+[30-Sep-2020 13:57:13 America/Araguaina] PHP Parse error:  syntax error, unexpected '++' (T_INC) in /usr/share/nginx/html/RESPOSTAS/index.php on line 23
+[30-Sep-2020 13:59:40 America/Araguaina] PHP Parse error:  syntax error, unexpected '++' (T_INC) in /usr/share/nginx/html/RESPOSTAS/index.php on line 23
+[30-Sep-2020 13:59:48 America/Araguaina] PHP Parse error:  syntax error, unexpected '++' (T_INC) in /usr/share/nginx/html/RESPOSTAS/index.php on line 23
+[30-Sep-2020 13:59:49 America/Araguaina] PHP Parse error:  syntax error, unexpected '++' (T_INC) in /usr/share/nginx/html/RESPOSTAS/index.php on line 23
+[30-Sep-2020 14:00:03 America/Araguaina] PHP Fatal error:  Uncaught Error: Function name must be a string in /usr/share/nginx/html/RESPOSTAS/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/RESPOSTAS/index.php on line 22
+[30-Sep-2020 14:08:43 America/Araguaina] PHP Parse error:  syntax error, unexpected end of file in /usr/share/nginx/html/RESPOSTAS/index.php on line 351
+[30-Sep-2020 14:15:11 America/Araguaina] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /usr/share/nginx/html/RESPOSTAS/index.php on line 30
+[30-Sep-2020 14:15:23 America/Araguaina] PHP Parse error:  syntax error, unexpected end of file in /usr/share/nginx/html/RESPOSTAS/index.php on line 343
+[30-Sep-2020 17:58:09 America/Araguaina] PHP Parse error:  syntax error, unexpected end of file in /usr/share/nginx/html/RESPOSTAS/index.php on line 349
+[30-Sep-2020 18:05:05 America/Araguaina] PHP Parse error:  syntax error, unexpected '}' in /usr/share/nginx/html/RESPOSTAS/index.php on line 35
+[30-Sep-2020 18:05:23 America/Araguaina] PHP Parse error:  syntax error, unexpected '}' in /usr/share/nginx/html/RESPOSTAS/index.php on line 35
+[30-Sep-2020 18:07:39 America/Araguaina] PHP Parse error:  syntax error, unexpected ')' in /usr/share/nginx/html/RESPOSTAS/index.php on line 30
+[30-Sep-2020 18:09:42 America/Araguaina] PHP Parse error:  syntax error, unexpected '=' in /usr/share/nginx/html/RESPOSTAS/index.php on line 32
+[30-Sep-2020 18:38:27 America/Araguaina] PHP Fatal error:  Uncaught Error: Call to undefined function () in /usr/share/nginx/html/RESPOSTAS/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/RESPOSTAS/index.php on line 32
+[30-Sep-2020 18:42:19 America/Araguaina] PHP Parse error:  syntax error, unexpected end of file in /usr/share/nginx/html/RESPOSTAS/index.php on line 362
+[30-Sep-2020 18:52:19 America/Araguaina] PHP Parse error:  syntax error, unexpected '}' in /usr/share/nginx/html/RESPOSTAS/index.php on line 43
+[30-Sep-2020 19:00:35 America/Araguaina] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /usr/share/nginx/html/RESPOSTAS/index.php on line 26
+[01-Oct-2020 09:07:21 America/Araguaina] PHP Parse error:  syntax error, unexpected end of file in /usr/share/nginx/html/RESPOSTAS/index.php on line 290
+[01-Oct-2020 09:07:50 America/Araguaina] PHP Parse error:  syntax error, unexpected end of file in /usr/share/nginx/html/RESPOSTAS/index.php on line 287
+[01-Oct-2020 09:08:32 America/Araguaina] PHP Parse error:  syntax error, unexpected end of file in /usr/share/nginx/html/RESPOSTAS/index.php on line 290
+[01-Oct-2020 09:14:23 America/Araguaina] PHP Parse error:  syntax error, unexpected end of file in /usr/share/nginx/html/RESPOSTAS/index.php on line 287
+[01-Oct-2020 09:16:36 America/Araguaina] PHP Parse error:  syntax error, unexpected 'PHPClassSession' (T_STRING) in /usr/share/nginx/html/RESPOSTAS/index.php on line 17
+[01-Oct-2020 09:25:01 America/Araguaina] PHP Parse error:  syntax error, unexpected ')' in /usr/share/nginx/html/RESPOSTAS/index.php on line 13
+[01-Oct-2020 09:27:10 America/Araguaina] PHP Parse error:  syntax error, unexpected ')' in /usr/share/nginx/html/RESPOSTAS/index.php on line 13
+[01-Oct-2020 09:27:48 America/Araguaina] PHP Parse error:  syntax error, unexpected ')' in /usr/share/nginx/html/RESPOSTAS/index.php on line 13
+[01-Oct-2020 09:27:49 America/Araguaina] PHP Parse error:  syntax error, unexpected ')' in /usr/share/nginx/html/RESPOSTAS/index.php on line 13
+[01-Oct-2020 09:28:05 America/Araguaina] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /usr/share/nginx/html/RESPOSTAS/index.php on line 15
+[01-Oct-2020 09:28:38 America/Araguaina] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /usr/share/nginx/html/RESPOSTAS/index.php on line 16
+[01-Oct-2020 09:29:05 America/Araguaina] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /usr/share/nginx/html/RESPOSTAS/index.php on line 16
+[01-Oct-2020 09:29:10 America/Araguaina] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /usr/share/nginx/html/RESPOSTAS/index.php on line 16
+[01-Oct-2020 09:29:23 America/Araguaina] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /usr/share/nginx/html/RESPOSTAS/index.php on line 16
+[01-Oct-2020 09:30:14 America/Araguaina] PHP Fatal error:  Uncaught Error: Call to undefined function var_dup() in /usr/share/nginx/html/RESPOSTAS/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /usr/share/nginx/html/RESPOSTAS/index.php on line 15
+[01-Oct-2020 11:34:15 America/Araguaina] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /usr/share/nginx/html/RESPOSTAS/index.php on line 18
+[01-Oct-2020 11:34:15 America/Araguaina] PHP Stack trace:
+[01-Oct-2020 11:34:15 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/RESPOSTAS/index.php:0
+[01-Oct-2020 11:38:27 America/Araguaina] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /usr/share/nginx/html/RESPOSTAS/index.php on line 28
+[01-Oct-2020 11:39:11 America/Araguaina] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /usr/share/nginx/html/RESPOSTAS/index.php on line 28
+[01-Oct-2020 11:39:36 America/Araguaina] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /usr/share/nginx/html/RESPOSTAS/index.php on line 34
+[01-Oct-2020 11:45:12 America/Araguaina] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /usr/share/nginx/html/RESPOSTAS/index.php on line 19
+[01-Oct-2020 11:45:12 America/Araguaina] PHP Stack trace:
+[01-Oct-2020 11:45:12 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/RESPOSTAS/index.php:0
+[01-Oct-2020 12:03:34 America/Araguaina] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PHPClassSession(), 1 passed in /usr/share/nginx/html/RESPOSTAS/index.php on line 6 and at least 2 expected in /usr/share/nginx/html/framework/config.php:47
+Stack trace:
+#0 /usr/share/nginx/html/RESPOSTAS/index.php(6): PHPClassSession()
+#1 {main}
+  thrown in /usr/share/nginx/html/framework/config.php on line 47
